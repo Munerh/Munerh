@@ -1,16 +1,34 @@
-## Hi there 👋
+#  Hi, I'm Munirah Alfawaz
 
-<!--
-**Munerh/Munerh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
 
-Here are some ideas to get you started:
+I hold an MBA with First-Class Honours and extensive 
+experience in analytics and institutional development within a
+large government entity. I transform complex datasets into 
+actionable insights.
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Analysis 
+* Business Intelligence & Visualization
+* Strategic & Business Skills
+* Translation
+  
+
+## 📂 Projects
+
+### 🔹 Project 1
+
+A project about [Eras of Riyadh International Book Fair: Growth Analysis (1978-2025) (Trend Analysis)].
+
+### 🔹 Project 2
+
+Another project where I developed an interactive dashboard to explore data, uncover insights, and provide data-driven recommendations.
+
+## 📚 Currently Learning
+
+* Python
+
+## 📫 Contact Me
+
+* Email: m.alf96@hotmail.com
+* LinkedIn: (https://www.linkedin.com/in/munerh/)
