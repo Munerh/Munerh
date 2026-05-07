@@ -6,6 +6,7 @@ I hold an MBA with First-Class Honours and extensive
 experience in analytics and institutional development within a
 large government entity. I transform complex datasets into 
 actionable insights.
+
 ## 🛠️ Skills
 
 * Data Analysis 
@@ -24,9 +25,6 @@ A project about [Eras of Riyadh International Book Fair: Growth Analysis (1978-2
 
 Another project where I developed an interactive dashboard to explore data, uncover insights, and provide data-driven recommendations.
 
-## 📚 Currently Learning
-
-* Python
 
 ## 📫 Contact Me
 
